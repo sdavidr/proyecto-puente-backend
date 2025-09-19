@@ -1,4 +1,4 @@
-package com.mutabi.auth_service;
+package com.mutabi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
